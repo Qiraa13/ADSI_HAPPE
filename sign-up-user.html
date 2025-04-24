@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Create Account</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      height: 100vh;
+    }
+
+    .container {
+      display: flex;
+      width: 100%;
+    }
+
+    .left-side {
+      flex: 1;
+      background: linear-gradient(to bottom right, #4CAF50, #1B5E20);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .left-side img {
+      width: 250px;
+      height: 350px;
+      object-fit: cover;
+      border-radius: 30px;
+      box-shadow: 0 10px 15px rgba(0,0,0,0.3);
+    }
+
+    .right-side {
+      flex: 1;
+      background-color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-top-left-radius: 80px;
+      border-bottom-left-radius: 80px;
+    }
+
+    .form-container {
+      width: 80%;
+      max-width: 500px;
+    }
+
+    h2 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 30px;
+    }
+
+    .form-group {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 15px;
+    }
+
+    .form-group input,
+    .form-container input {
+      flex: 1;
+      padding: 10px;
+      border-radius: 12px;
+      border: 1px solid #999;
+    }
+
+    .phone-group {
+      display: flex;
+      gap: 10px;
+    }
+
+    .country-code {
+      width: 100px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .create-button {
+      width: 100%;
+      padding: 15px;
+      border: none;
+      background-color: #ddd;
+      border-radius: 12px;
+      font-weight: bold;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="left-side">
+      <img src="https://via.placeholder.com/250x350?text=Image+1" alt="Image 1">
+      <img src="https://via.placeholder.com/250x350?text=Image+2" alt="Image 2">
+    </div>
+    <div class="right-side">
+      <div class="form-container">
+        <h2>Create Account</h2>
+        <div class="form-group">
+          <input type="text" placeholder="First Name">
+          <input type="text" placeholder="Last Name">
+        </div>
+        <div class="form-group">
+          <input type="text" placeholder="Address">
+        </div>
+        <div class="form-group">
+          <input type="email" placeholder="E-mail">
+        </div>
+        <div class="form-group">
+          <input type="password" placeholder="Password">
+        </div>
+        <div class="form-group phone-group">
+          <div class="country-code">
+            <img src="https://flagcdn.com/w40/id.png" alt="ID" style="width:24px;height:auto;border-radius:4px;">
+            <span>+62</span>
+          </div>
+          <input type="text" placeholder="Cell Number">
+        </div>
+        <button class="create-button" onclick="window.location.href='homepage-user.html'">Create Account</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
