@@ -1,0 +1,1403 @@
+.ukuran-layar-dekstop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ukuran-layar-dekstop .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 5081px;
+    position: relative;
+  }
+  
+  .ukuran-layar-dekstop .overlap {
+    position: absolute;
+    width: 1936px;
+    height: 135px;
+    top: -46px;
+    left: -8px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .ukuran-layar-dekstop .whatsapp-image {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 57px;
+    left: 31px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .overlap-group {
+    position: absolute;
+    width: 345px;
+    height: 89px;
+    top: 46px;
+    left: 1591px;
+    background-color: #f9ce34;
+  }
+  
+  .ukuran-layar-dekstop .gg-facebook {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 25px;
+    left: 35px;
+  }
+  
+  .ukuran-layar-dekstop .prime-twitter {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 28px;
+    left: 109px;
+    background-image: url(./img/clip-path-group.png);
+    background-size: 100% 100%;
+  }
+  
+  .ukuran-layar-dekstop .mdi-youtube {
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    top: 16px;
+    left: 173px;
+  }
+  
+  .ukuran-layar-dekstop .mdi-instagram {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 23px;
+    left: 256px;
+  }
+  
+  .ukuran-layar-dekstop .dari-tangan-petani {
+    position: absolute;
+    width: 1081px;
+    top: 72px;
+    left: 126px;
+    font-family: "Actor-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .overlap-2 {
+    position: absolute;
+    width: 1985px;
+    height: 1735px;
+    top: 89px;
+    left: -61px;
+  }
+  
+  .ukuran-layar-dekstop .weui-arrow-filled {
+    position: absolute;
+    width: 25px;
+    height: 13px;
+    top: 33px;
+    left: 1027px;
+  }
+  
+  .ukuran-layar-dekstop .desain-tanpa-judul {
+    position: absolute;
+    width: 1926px;
+    height: 1022px;
+    top: 0;
+    left: 59px;
+  }
+  
+  .ukuran-layar-dekstop .element-organic {
+    position: absolute;
+    top: 389px;
+    left: 1386px;
+    text-shadow: 10px 9px 4px #00000040;
+    font-family: "Croissant One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper {
+    font-family: "Croissant One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+  }
+  
+  .ukuran-layar-dekstop .span {
+    font-family: "Cuprum-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .ukuran-layar-dekstop .vector-illustration {
+    position: absolute;
+    width: 435px;
+    height: 544px;
+    top: 712px;
+    left: 0;
+  }
+  
+  .ukuran-layar-dekstop .rectangle {
+    position: absolute;
+    width: 1360px;
+    height: 132px;
+    top: 954px;
+    left: 621px;
+    background-color: #ffffff;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-2 {
+    position: absolute;
+    width: 1923px;
+    height: 535px;
+    top: 1200px;
+    left: 58px;
+    background-color: #275517fc;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-2 {
+    position: absolute;
+    width: 303px;
+    top: 1421px;
+    left: 1282px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffd700;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-3 {
+    position: absolute;
+    width: 303px;
+    top: 1423px;
+    left: 1596px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffd700;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .p {
+    position: absolute;
+    width: 461px;
+    top: 1423px;
+    left: 176px;
+    font-family: "Aboreto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .group {
+    position: absolute;
+    width: 1592px;
+    height: 550px;
+    top: 747px;
+    left: 273px;
+  }
+  
+  .ukuran-layar-dekstop .overlap-3 {
+    position: absolute;
+    width: 478px;
+    height: 550px;
+    top: 0;
+    left: 0;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-3 {
+    position: absolute;
+    width: 408px;
+    height: 550px;
+    top: 0;
+    left: 0;
+    border-radius: 60px;
+    box-shadow: 9px 9px 4px #00000040;
+    background: linear-gradient(
+      180deg,
+      rgba(65, 79, 71, 1) 0%,
+      rgba(148, 181, 162, 1) 54%
+    );
+  }
+  
+  .ukuran-layar-dekstop .img {
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    top: 30px;
+    left: 64px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-4 {
+    position: absolute;
+    width: 414px;
+    top: 315px;
+    left: 64px;
+    font-family: "Amiri-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .buah-sayuran {
+    left: 55px;
+    white-space: nowrap;
+    position: absolute;
+    width: 268px;
+    top: 372px;
+    font-family: "Alice-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .overlap-4 {
+    position: absolute;
+    width: 417px;
+    height: 550px;
+    top: 0;
+    left: 580px;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-4 {
+    position: absolute;
+    width: 408px;
+    height: 550px;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    box-shadow: 9px 9px 4px #00000040;
+    background: linear-gradient(
+      180deg,
+      rgba(83, 102, 91, 1) 0%,
+      rgba(166, 204, 182, 1) 58%
+    );
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-5 {
+    position: absolute;
+    width: 414px;
+    top: 315px;
+    left: 3px;
+    font-family: "Amiri-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .memiliki-banyak {
+    position: absolute;
+    width: 268px;
+    top: 373px;
+    left: 79px;
+    font-family: "Alice-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .overlap-group-2 {
+    position: absolute;
+    width: 420px;
+    height: 550px;
+    top: 0;
+    left: 1160px;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-5 {
+    position: absolute;
+    width: 408px;
+    height: 550px;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    box-shadow: 9px 9px 4px #00000040;
+    background: linear-gradient(
+      180deg,
+      rgba(98, 113, 107, 1) 0%,
+      rgba(187, 215, 204, 1) 55%
+    );
+  }
+  
+  .ukuran-layar-dekstop .juice-is-very-good {
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    top: 30px;
+    left: 71px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-6 {
+    position: absolute;
+    width: 414px;
+    top: 315px;
+    left: 6px;
+    font-family: "Amiri-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .buah-sayuran-yang {
+    left: 77px;
+    position: absolute;
+    width: 268px;
+    top: 372px;
+    font-family: "Alice-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-7 {
+    position: absolute;
+    top: 1361px;
+    left: 183px;
+    font-family: "Actor-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffd700;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .line {
+    position: absolute;
+    width: 1px;
+    height: 226px;
+    top: 1405px;
+    left: 786px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-8 {
+    position: absolute;
+    width: 303px;
+    top: 1423px;
+    left: 905px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffd700;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-9 {
+    left: 897px;
+    position: absolute;
+    top: 1500px;
+    font-family: "Actor-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-10 {
+    position: absolute;
+    width: 231px;
+    top: 1500px;
+    left: 1273px;
+    font-family: "Actor-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-11 {
+    left: 1585px;
+    position: absolute;
+    top: 1500px;
+    font-family: "Actor-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .octicon-feed-person {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 33px;
+    left: 1679px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-12 {
+    position: absolute;
+    top: 45px;
+    left: 1737px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-13 {
+    position: absolute;
+    top: 45px;
+    left: 1816px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-14 {
+    position: absolute;
+    top: 45px;
+    left: 1842px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .shop-navbar {
+    position: absolute;
+    width: 103px;
+    height: 23px;
+    top: 46px;
+    left: 1534px;
+  }
+  
+  .ukuran-layar-dekstop .overlap-5 {
+    position: relative;
+    height: 23px;
+    top: -1px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-15 {
+    position: absolute;
+    width: 97px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .vector {
+    position: absolute;
+    width: 13px;
+    height: 8px;
+    top: 10px;
+    left: 90px;
+  }
+  
+  .ukuran-layar-dekstop .HOME {
+    position: absolute;
+    width: 97px;
+    height: 23px;
+    top: 46px;
+    left: 1420px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-16 {
+    position: absolute;
+    width: 97px;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .overlap-6 {
+    position: absolute;
+    width: 884px;
+    height: 816px;
+    top: 1993px;
+    left: -40px;
+  }
+  
+  .ukuran-layar-dekstop .download-removebg {
+    position: absolute;
+    width: 355px;
+    height: 516px;
+    top: 300px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-6 {
+    position: absolute;
+    width: 163px;
+    height: 614px;
+    top: 110px;
+    left: 206px;
+  }
+  
+  .ukuran-layar-dekstop .frame {
+    position: absolute;
+    width: 640px;
+    height: 763px;
+    top: 0;
+    left: 244px;
+    box-shadow: 9px 9px 4px #00000040;
+  }
+  
+  .ukuran-layar-dekstop .overlap-group-wrapper {
+    height: 763px;
+    background-image: url(./img/petani-kopi-liberika.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .ukuran-layar-dekstop .overlap-group-3 {
+    position: relative;
+    width: 482px;
+    height: 132px;
+    top: 593px;
+    left: -38px;
+    background-color: #f9ce34c9;
+    box-shadow: 0px 0px 0px #00000040;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-7 {
+    position: absolute;
+    width: 132px;
+    height: 132px;
+    top: 0;
+    left: 0;
+    background-color: #275517fc;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-17 {
+    position: absolute;
+    width: 221px;
+    top: 13px;
+    left: 115px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-18 {
+    position: absolute;
+    top: 69px;
+    left: 153px;
+    font-family: "Amiri-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .fa-solid-user-check {
+    position: absolute;
+    width: 72px;
+    height: 58px;
+    top: 31px;
+    left: 38px;
+  }
+  
+  .ukuran-layar-dekstop .overlap-7 {
+    position: absolute;
+    width: 2174px;
+    height: 1125px;
+    top: 2936px;
+    left: -193px;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-8 {
+    position: absolute;
+    width: 1920px;
+    height: 1125px;
+    top: 0;
+    left: 193px;
+    background-color: #b4c9c180;
+  }
+  
+  .ukuran-layar-dekstop .polygon {
+    position: absolute;
+    width: 97px;
+    height: 173px;
+    top: 724px;
+    left: 919px;
+  }
+  
+  .ukuran-layar-dekstop .farming-by-donna-jos {
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    top: 768px;
+    left: 671px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .donna-jos-sia {
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    top: 460px;
+    left: 671px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .asian-happy-farmer {
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    top: 152px;
+    left: 671px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .overlap-wrapper {
+    position: absolute;
+    width: 782px;
+    height: 228px;
+    top: 460px;
+    left: 1003px;
+  }
+  
+  .ukuran-layar-dekstop .overlap-8 {
+    position: relative;
+    width: 780px;
+    height: 228px;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-9 {
+    position: absolute;
+    width: 737px;
+    height: 228px;
+    top: 0;
+    left: 43px;
+  }
+  
+  .ukuran-layar-dekstop .polygon-2 {
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    top: 0;
+    left: 0;
+  }
+  
+  .ukuran-layar-dekstop .line-2 {
+    position: absolute;
+    width: 646px;
+    height: 4px;
+    top: 60px;
+    left: 81px;
+  }
+  
+  .ukuran-layar-dekstop .star {
+    left: 509px;
+    position: absolute;
+    width: 36px;
+    height: 35px;
+    top: 22px;
+  }
+  
+  .ukuran-layar-dekstop .star-2 {
+    left: 557px;
+    position: absolute;
+    width: 36px;
+    height: 35px;
+    top: 22px;
+  }
+  
+  .ukuran-layar-dekstop .star-3 {
+    left: 605px;
+    position: absolute;
+    width: 36px;
+    height: 35px;
+    top: 22px;
+  }
+  
+  .ukuran-layar-dekstop .star-4 {
+    left: 653px;
+    position: absolute;
+    width: 36px;
+    height: 35px;
+    top: 22px;
+  }
+  
+  .ukuran-layar-dekstop .star-5 {
+    left: 461px;
+    position: absolute;
+    width: 36px;
+    height: 35px;
+    top: 22px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-19 {
+    position: absolute;
+    top: 12px;
+    left: 97px;
+    font-family: "Amiri-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .div-wrapper {
+    position: absolute;
+    width: 780px;
+    height: 228px;
+    top: 771px;
+    left: 1003px;
+  }
+  
+  .ukuran-layar-dekstop .overlap-9 {
+    position: relative;
+    height: 228px;
+  }
+  
+  .ukuran-layar-dekstop .group-2 {
+    position: absolute;
+    width: 780px;
+    height: 228px;
+    top: 149px;
+    left: 1003px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-20 {
+    position: absolute;
+    width: 398px;
+    top: 157px;
+    left: 1100px;
+    font-family: "Amiri-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .sejak-saya-mulai {
+    position: absolute;
+    width: 665px;
+    top: 213px;
+    left: 1084px;
+    font-family: "Amiri-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-21 {
+    position: absolute;
+    top: 782px;
+    left: 1100px;
+    font-family: "Amiri-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .tanaman-organik {
+    position: absolute;
+    width: 646px;
+    top: 522px;
+    left: 1080px;
+    font-family: "Amiri-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .dulu-jualan-cuma-di {
+    position: absolute;
+    width: 646px;
+    top: 835px;
+    left: 1084px;
+    font-family: "Amiri-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-10 {
+    position: absolute;
+    width: 407px;
+    height: 1125px;
+    top: 0;
+    left: 193px;
+    background: linear-gradient(
+      180deg,
+      rgba(39, 85, 24, 1) 73%,
+      rgba(86, 187, 52, 1) 100%
+    );
+  }
+  
+  .ukuran-layar-dekstop .download {
+    position: absolute;
+    width: 564px;
+    height: 859px;
+    top: 133px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .download-removebg-2 {
+    position: absolute;
+    width: 358px;
+    height: 537px;
+    top: 288px;
+    left: 1816px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-22 {
+    position: absolute;
+    top: 48px;
+    left: 1295px;
+    font-family: "Amiri-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .overlap-10 {
+    position: absolute;
+    width: 988px;
+    height: 738px;
+    top: 2198px;
+    left: 1039px;
+  }
+  
+  .ukuran-layar-dekstop .overlap-11 {
+    position: absolute;
+    width: 988px;
+    height: 738px;
+    top: 0;
+    left: 0;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-11 {
+    position: absolute;
+    width: 709px;
+    height: 190px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d930;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-12 {
+    position: absolute;
+    width: 709px;
+    height: 69px;
+    top: 0;
+    left: 0;
+    background-color: #f9ce34;
+    border-radius: 20px 20px 0px 0px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-23 {
+    position: absolute;
+    top: 23px;
+    left: 43px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-24 {
+    position: absolute;
+    width: 660px;
+    top: 89px;
+    left: 35px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .rectangle-13 {
+    position: absolute;
+    width: 615px;
+    height: 77px;
+    top: 375px;
+    left: 0;
+    background-color: #d9d9d930;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .ukuran-layar-dekstop .download-free-png-of {
+    position: absolute;
+    width: 404px;
+    height: 577px;
+    top: 161px;
+    left: 584px;
+  }
+  
+  .ukuran-layar-dekstop .weui-arrow-filled-2 {
+    top: 32px;
+    left: 666px;
+    position: absolute;
+    width: 24px;
+    height: 12px;
+  }
+  
+  .ukuran-layar-dekstop .weui-arrow-filled-3 {
+    top: 407px;
+    left: 578px;
+    position: absolute;
+    width: 24px;
+    height: 12px;
+  }
+  
+  .ukuran-layar-dekstop .weui-arrow-filled-wrapper {
+    position: absolute;
+    width: 431px;
+    height: 77px;
+    top: 244px;
+    left: 0;
+    background-color: #d9d9d930;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .ukuran-layar-dekstop .weui-arrow-filled-4 {
+    top: 33px;
+    left: 393px;
+    position: absolute;
+    width: 24px;
+    height: 12px;
+  }
+  
+  .ukuran-layar-dekstop .shop-navbar-2 {
+    position: absolute;
+    width: 273px;
+    height: 32px;
+    top: 1993px;
+    left: 1011px;
+  }
+  
+  .ukuran-layar-dekstop .SHOP {
+    position: absolute;
+    width: 256px;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #275517;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-25 {
+    position: absolute;
+    width: 622px;
+    top: 2061px;
+    left: 1039px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .overlap-12 {
+    position: absolute;
+    width: 1937px;
+    height: 877px;
+    top: 4085px;
+    left: -9px;
+    background-image: url(./img/screenshot-2025-04-23-215551-removebg-preview-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .ukuran-layar-dekstop .overlap-13 {
+    position: absolute;
+    width: 190px;
+    height: 60px;
+    top: 544px;
+    left: 1245px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-26 {
+    position: absolute;
+    width: 190px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffd700;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-27 {
+    position: absolute;
+    width: 190px;
+    top: 29px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-28 {
+    width: 190px;
+    top: 554px;
+    position: absolute;
+    left: 1579px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-29 {
+    position: absolute;
+    width: 253px;
+    top: 744px;
+    left: 1579px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-30 {
+    width: 253px;
+    top: 652px;
+    position: absolute;
+    left: 1579px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .overlap-14 {
+    position: absolute;
+    width: 190px;
+    height: 59px;
+    top: 663px;
+    left: 1245px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-31 {
+    position: absolute;
+    width: 190px;
+    top: 28px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .PNG-pngtree-removebg {
+    position: absolute;
+    width: 313px;
+    height: 313px;
+    top: 0;
+    left: 1490px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .line-3 {
+    position: absolute;
+    width: 2px;
+    height: 352px;
+    top: 469px;
+    left: 685px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .overlap-15 {
+    position: absolute;
+    width: 485px;
+    height: 70px;
+    top: 721px;
+    left: 129px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    box-shadow: 5px 4px 4px #00000040;
+  }
+  
+  .ukuran-layar-dekstop .tdesign-search-wrapper {
+    position: absolute;
+    width: 98px;
+    height: 47px;
+    top: 10px;
+    left: 372px;
+    background-color: #f9ce34;
+    border-radius: 34px;
+    box-shadow: 5px 4px 4px #00000040;
+  }
+  
+  .ukuran-layar-dekstop .tdesign-search {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 6px;
+    left: 30px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-32 {
+    position: absolute;
+    width: 254px;
+    top: 24px;
+    left: 58px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000082;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .ukuran-layar-dekstop .whatsapp-image-2 {
+    position: absolute;
+    width: 491px;
+    height: 174px;
+    top: 503px;
+    left: 129px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .scarica-loghi-di {
+    position: absolute;
+    width: 420px;
+    height: 336px;
+    top: 16px;
+    left: 80px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .agro-logo-brand {
+    position: absolute;
+    width: 243px;
+    height: 243px;
+    top: 62px;
+    left: 620px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .download-removebg-3 {
+    position: absolute;
+    width: 269px;
+    height: 124px;
+    top: 95px;
+    left: 1078px;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-33 {
+    position: absolute;
+    width: 159px;
+    top: 485px;
+    left: 849px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #fefefebf;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-34 {
+    position: absolute;
+    width: 159px;
+    top: 481px;
+    left: 1567px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #fefefebf;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .text-wrapper-35 {
+    position: absolute;
+    width: 159px;
+    top: 481px;
+    left: 1193px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #fefefebf;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .tentang-kami-bertemu {
+    position: absolute;
+    width: 175px;
+    top: 545px;
+    left: 835px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .ukuran-layar-dekstop .download-2 {
+    width: 69px;
+    height: 69px;
+    top: 546px;
+    left: 1147px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .download-3 {
+    width: 69px;
+    height: 69px;
+    top: 664px;
+    left: 1147px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .ukuran-layar-dekstop .mdi-instagram-2 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 545px;
+    left: 1522px;
+  }
+  
+  .ukuran-layar-dekstop .material-symbols {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 739px;
+    left: 1518px;
+  }
+  
+  .ukuran-layar-dekstop .ic-outline-email {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 642px;
+    left: 1522px;
+  }
+  
+  .ukuran-layar-dekstop .mdi-web-check-wrapper {
+    position: absolute;
+    width: 1920px;
+    height: 119px;
+    top: 4962px;
+    left: 0;
+    background-color: #164009fc;
+  }
+  
+  .ukuran-layar-dekstop .mdi-web-check {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 37px;
+    left: 1069px;
+  }
+  
