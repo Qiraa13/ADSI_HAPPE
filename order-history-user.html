@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Order History - Shop Buah</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #d1d1d1;
+    }
+
+    /* Navbar */
+    .top-wrapper {
+      display: flex;
+    }
+
+    .top-bar {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      background: #2c5b23;
+      padding: 10px 20px;
+      flex: 1;
+    }
+
+    .logo {
+      height: 40px;
+    }
+
+    .socials {
+      background: #f7cd3c;
+      padding: 10px 15px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .socials img {
+      height: 20px;
+      cursor: pointer;
+    }
+
+    .nav-menu {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      background: white;
+      padding: 10px 20px;
+      gap: 30px;
+      font-weight: bold;
+    }
+
+    .nav-menu a {
+      color: black;
+      text-decoration: none;
+    }
+
+    .user-profile {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+    }
+
+    .user-profile img {
+      height: 20px;
+      filter: brightness(0);
+    }
+
+    /* Table Styles */
+    .container {
+      background: white;
+      margin: 20px auto;
+      width: 90%;
+      padding: 20px;
+      border-radius: 8px;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 12px 10px;
+      text-align: left;
+      border-bottom: 1px solid #ccc;
+    }
+
+    th {
+      background-color: #f8f8f8;
+    }
+
+    td {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Bar -->
+  <div class="top-wrapper">
+    <div class="top-bar">
+      <img src="logo.png" alt="Logo" class="logo" />
+    </div>
+    <div class="socials">
+      <img src="facebook-icon.png" alt="Facebook" />
+      <img src="x-icon.png" alt="X" />
+      <img src="youtube-icon.png" alt="YouTube" />
+      <img src="instagram-icon.png" alt="Instagram" />
+    </div>
+  </div>
+
+  <!-- Navigation -->
+  <div class="nav-menu">
+    <a href="#">HOME</a>
+    <a href="#">SHOP ▼</a>
+    <div class="user-profile">
+      <img src="user-icon.png" alt="User" />
+      <span>Syauqi Rahmat ▼</span>
+    </div>
+  </div>
+
+  <!-- Order History -->
+  <div class="container">
+    <h2>Order History</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Customer Name</th>
+          <th>Order Date</th>
+          <th>Order Type</th>
+          <th>Kind of Order</th>
+          <th>Order Total</th>
+          <th>Payment Status</th>
+          <th>Delivery Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Timuti Ronaldo</td><td>August 12, 2023 8:00am</td><td>Fruit</td><td>Apple</td><td>$1250</td><td>Completed</td><td>Shipped</td></tr>
+        <tr><td>Fandri Albara</td><td>August 12, 2023 8:00am</td><td>Fruit</td><td>Mango</td><td>$2000</td><td>Completed</td><td>Shipped</td></tr>
+        <tr><td>Pandita L</td><td>August 12, 2023 8:00am</td><td>Vegetable</td><td>Lettuce</td><td>$1000</td><td>Completed</td><td>Shipped</td></tr>
+        <tr><td>Rizki P</td><td>August 12, 2023 8:00am</td><td>Vegetable</td><td>Cabbage</td><td>$800</td><td>Completed</td><td>Shipped</td></tr>
+        <tr><td>Rahmat H</td><td>August 12, 2023 8:00am</td><td>Vegetable</td><td>Bitter Melon</td><td>$600</td><td>Completed</td><td>Shipped</td></tr>
+        <tr><td>Kim Jong Un</td><td>August 12, 2023 8:00am</td><td>Vegetable</td><td>Potato</td><td>$2500</td><td>Completed</td><td>Shipped</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+</body>
+</html>
